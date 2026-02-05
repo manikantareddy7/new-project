@@ -1,2 +1,1 @@
-print('Updated code')
-print('Updated app functionality')
+print('wrong code')
